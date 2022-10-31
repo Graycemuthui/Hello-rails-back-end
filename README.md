@@ -1,24 +1,48 @@
-# README
+## Hello-Rails-Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple hello rails back-end part of the random greetings app front-end is built in rails.
+
+## front end of the app
+
+The frontend part of this project:[ Hello React Front End](https://github.com/Graycemuthui/React-rails)
 
 Things you may want to cover:
 
-* Ruby version
+Ruby version Version 3.1.2
 
-* System dependencies
+System dependencies Run `bundle install` to install dependencies for rails Run `npm install` to install react dependencies
 
-* Configuration
+Configuration To view the source code;
 
-* Database creation
+a) Clone the project
 
-* Database initialization
+```terminal
+git@github.com:divinecharlotte/hello-rails-back-end.git
+```
 
-* How to run the test suite
+b) View the folder - cd into the project directory
 
-* Services (job queues, cache servers, search engines, etc.)
+    ```terminal
+    cd hello-rails-react
 
-* Deployment instructions
+Database initialization c) Run migration rails db:migrate
 
-* ...
+```
+
+## Authors
+
+👤 **Grace Muthui**
+
+- GitHub: [@Grayce Muthui](https://github.com/Graycemuthui)
+- Twitter: [@Grayce_Muthui](https://twitter.com/Grayce_Muthui)
+- LinkedIn: [@Grayce Muthui](http://www.linkedin.com/in/grayce-muthui-a17294226)
+
+## Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+## Show your support
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+Hat tip to anyone whose code was used
+```
