@@ -4,7 +4,7 @@ This is a simple hello rails back-end part of the random greetings app front-end
 
 ## front end of the app
 
-The frontend part of this project:[ Hello React Front End](https://github.com/Graycemuthui/React-rails)
+The frontend part of this project:[ Hello React Front End](https://github.com/Graycemuthui/react-frontend)
 
 Things you may want to cover:
 
@@ -17,7 +17,7 @@ Configuration To view the source code;
 a) Clone the project
 
 ```terminal
-git@github.com:divinecharlotte/hello-rails-back-end.git
+git@github.com. graycemuthui/hello-rails-back-end.git
 ```
 
 b) View the folder - cd into the project directory
